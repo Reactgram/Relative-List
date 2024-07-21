@@ -1,11 +1,13 @@
 import React from "react";
 import RelativeList from "./Component/RelativeList";
+import ButtonAction from "./Component/ButtonAction";
 
 const App = () => {
     return (
         <div>
-            <RelativeList />
             {/* <RelativeList /> */}
+            {/* <RelativeList /> */}
+            <ButtonAction />
         </div>
     );
 }
